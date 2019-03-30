@@ -1,7 +1,10 @@
 - company: Cutco Corporation
   link: cutco.com
-  job_title: Programmer
-  dates: November 2017 - Present
+  jobs:
+    - title: Programmer
+      dates: April 2018 - Present
+    - title: Programming Intern
+      dates: Nov. 2017 - April 2018
   quote: >
    AMERICAN-MADE KNIVES. GUARANTEED FOREVER.
   description: | # this will include new lines to allow paragraphs
