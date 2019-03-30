@@ -5,6 +5,13 @@
   quote: >
    AMERICAN-MADE KNIVES. GUARANTEED FOREVER.
   description: | # this will include new lines to allow paragraphs
-    Cutco is a company driven to create a great experience for both its customers and employees. I began as an intern in November and by April I was promoted to full time programmer. I am more focused on backend issues working to protect the integrity of the data but still make it accessible to the right users.
+    Cutco is a company driven to create a great experience for both its customers and employees. I began as an intern in November and by April I was promoted to full time programmer. I am more focused on backend issues working to protect the integrity of the data and make it accessible to the right users.
     
     I work primarily in SQL, RPG, and Python.
+- company: St. Bonaventure University
+  job_title: Workshop Presenter
+  dates: Octobers 2013 - 2018
+  quote: >
+   Girls' Day is an annual technology workshop for middle school girls to inspire them to pursue a career in STEM.
+  description: | # this will include new lines to allow paragraphs
+    Every October, I have had the privilege to support this event at St. Bonaventure showing young girls what can be accomplished in the world of technology. I have played several roles in the event and learned the impact that sharing knowledge and experience can have on others. 
