@@ -22,7 +22,7 @@ linkedin_username: michelle-vick
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/michelle.jpg
 about_content: | # this will include new lines to allow paragraphs
   As a recent computer science graduate I am curious and motivated to improve my skills and contribute to a team. I am currently a programmer at Cutco Corporation. I am passionate about clean, readable, maintainable code.
 
